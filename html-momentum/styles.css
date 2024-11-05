@@ -90,3 +90,9 @@ body, html {
     margin-top: -60px;
    
 }
+/*courses*/
+@media (max-width: 768px) {
+    div.my-dev{
+      height: 60px !important; /* Adjust the height as needed for mobile */
+    }
+  }
